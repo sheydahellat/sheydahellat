@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JaroobApplication
 - 🌱 I’m currently learning .Net
-- 📫 How to reach me: sheydahellat@gmail.com
+- 📫 How to reach me: sheydahellat@gmail.com  
 -->

@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on JaroobApplication
-- 🌱 I’m currently learning .Net
+- 🔭 I’m currently working on Winzy App
 - 📫 How to reach me: sheydahellat@gmail.com 
 
 <!--
